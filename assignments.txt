@@ -1,0 +1,6 @@
+principal = 1000
+rate = 7
+time = 7 
+interest = (principal * rate * time)/100
+total_amount = principal + interest
+print(total_amount)
