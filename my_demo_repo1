@@ -2,4 +2,4 @@ fruits = {"apple", "banana", "cherry"}
 more_fruits = ["orange", "mango", "grapes"]
 fruits.update(more_fruits)# using the update function to add up the sets
 print(fruits)
-
+# my python code
